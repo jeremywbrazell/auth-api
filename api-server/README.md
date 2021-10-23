@@ -1,6 +1,6 @@
 # auth-api
 
-UML
+WRRC
 
 ![AuthApi](AuthApi.png)
 
